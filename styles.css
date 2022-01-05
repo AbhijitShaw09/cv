@@ -138,19 +138,19 @@ a:hover {
 
 .bottom-container {
     background-color: #aad6d6;
-    padding: 50px;
+    padding: 50px 0 20px;
 }
 
 a {
     font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
     text-decoration: none;
     color: #126E82;
     font-weight: bolder;
-    padding: 0 60px;
 }
 
 .copyright {
-    margin: 50px auto auto;
+    padding: 20px 0;
     color: #126E82;
-    font-size: 0.85rem;
+    font-size: 0.75rem;
 }
